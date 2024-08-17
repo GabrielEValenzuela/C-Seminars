@@ -14,3 +14,8 @@ This repository contains simple C programs that demonstrate various fundamental 
 8. [Pointers](008)
 9. [Preprocessor in C](009)
 10. [Arrays in C](010)
+11. [Structs,Unions & Bitfields](011)
+12. [Function pointers](012)
+13. [File operations](013)
+14. [Variables II](014)
+15. [Attributes](015)
